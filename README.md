@@ -1,5 +1,7 @@
 ### Hi there, I'm Jeffrey Field 👋
 
+I am a graduate student from Governors State University with a bachelor's degree in computer science as of May 2024. I have 2 years of full stack development experience looking for my first job in this field. 
+
 
 Skills
 
